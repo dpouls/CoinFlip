@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\bin\Debug\netstandard2.0\CoinFlip.deps.json
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\bin\Debug\netstandard2.0\CoinFlip.dll
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\bin\Debug\netstandard2.0\ref\CoinFlip.dll
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\bin\Debug\netstandard2.0\CoinFlip.pdb
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\CoinFlip.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\CoinFlip.AssemblyInfo.cs
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\CoinFlip.dll
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\ref\CoinFlip.dll
+C:\Users\dalli\source\repos\CoinFlip\CoinFlip\CoinFlip\obj\Debug\netstandard2.0\CoinFlip.pdb
